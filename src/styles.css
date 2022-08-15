@@ -1,0 +1,17 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.emojilist {
+  list-style-type: none;
+  text-align: center;
+
+  padding-inline-start: 0;
+}
+.emojilistitem {
+  display: inline-block;
+  padding: 1rem;
+  font-size: 1.6rem;
+  cursor: pointer;
+}
