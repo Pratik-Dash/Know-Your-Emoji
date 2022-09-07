@@ -98,6 +98,26 @@ export default function App() {
           </li>
         ))}
       </ul>
+      <footer>
+        <div>
+          {" "}
+          Made by{" "}
+          <a href="https://pratik-dash-portfolio.netlify.app/" class="credit">
+            Pratik
+          </a>
+        </div>
+        <ul>
+          <li>
+            <a href="https://twitter.com/Prateek24675372"><ion-icon name="logo-twitter"></ion-icon></a>
+          </li>
+          <li>
+            <a href="https://www.linkedin.com/in/pratik-dash-5a7217134/"><ion-icon name="logo-linkedin"></ion-icon></a>
+          </li>
+          <li>
+            <a href="https://github.com/Pratik-Dash"><ion-icon name="logo-github"></ion-icon></a>
+          </li>
+        </ul>
+      </footer>
     </div>
   );
 }
